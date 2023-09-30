@@ -1,0 +1,14 @@
+{
+  "en": {
+    "translation": {
+      "Welcome to React": "Welcome to React and react-i18next",
+      "Your name": "Saleh"
+    }
+  },
+  "ar": {
+    "translation": {
+      "Welcome to React": "مرحبا في رياكت ورياكت 18",
+      "Your name": "صالح"
+    }
+  }
+}
